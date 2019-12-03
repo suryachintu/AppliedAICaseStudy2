@@ -1,0 +1,4 @@
+applications:
+  - name: Intracranial Hemorrhage Detection
+    random-route: true
+    memory: 256M
